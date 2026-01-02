@@ -29,5 +29,5 @@ The goal is to predict diabetes outcome from clinical measurements.
 # How to run
 1. Clone:
 ```bash
-git clone https://github.com/<your-username>/kaggle-diabetes-classification.git
+git clone https://github.com/Mobina Arabnejad/kaggle-diabetes-classification.git
 cd kaggle-diabetes-classification
