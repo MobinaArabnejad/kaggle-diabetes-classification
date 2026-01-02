@@ -26,6 +26,7 @@ The goal is to predict diabetes outcome from clinical measurements.
 - scikit-learn
 - matplotlib
 
+----
 '''
 ##Datadet :
 https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database
